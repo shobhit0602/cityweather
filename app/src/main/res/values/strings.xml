@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cityweather</string>
+    <string name="city_name_hint_text">Enter city name</string>
+    <string name="show_weather_date">Show weather</string>
+    <string name="current_city_name">Bangalore</string>
+    <string name="permission_denied">Permission Denied, Please allow to proceed !</string>
+    <string name="degree_celcius">%1$s.C</string>
+    <string name="api_key">6d7838ef93a994e1de96414b699ec663</string>
+    <string name="response_failure">Something went wrong...Error message:</string>
+
+</resources>
